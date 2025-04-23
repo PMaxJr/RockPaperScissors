@@ -36,7 +36,7 @@ function win(userChoice, computerChoice) {
 
   setTimeout(function () {
     result_div.innerHTML = "";
-  }, 1100);
+  }, 1500);
 }
 
 function lose(userChoice, computerChoice) {
@@ -51,7 +51,7 @@ function lose(userChoice, computerChoice) {
 
   setTimeout(function () {
     result_div.innerHTML = "";
-  }, 1100);
+  }, 1500);
 }
 
 function draw(userChoice, computerChoice) {
@@ -60,7 +60,7 @@ function draw(userChoice, computerChoice) {
 
   setTimeout(function () {
     result_div.innerHTML = "";
-  }, 1100);
+  }, 1500);
 }
 
 function game(userChoice) {
